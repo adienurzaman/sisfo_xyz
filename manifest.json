@@ -1,0 +1,25 @@
+{
+  "short_name": "XYZ App",
+  "name": "Cv. XYZ Apps",
+  "description": "Aplikasi Sistem Informasi Keuangan CV. XYZ",
+  "background_color": "#EAEAEA",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "/build/img/xyz_1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/build/img/xyz_1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/build/img/xyz_1.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
